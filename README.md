@@ -1,8 +1,10 @@
-# RoadMap 
+# .Net Developer RoadMap 
 <ol>
     <li>
         <details open>
-            <summary>Learn the prerequisites <input type="range"/> </summary>
+            <summary>
+                Learn the prerequisites 
+            </summary>
             <ol>
                 <li><a href="https://www.pluralsight.com/paths/csharp">C#</a><input type="range"></li>
                 <li><a href="https://devblogs.microsoft.com/dotnet/announcing-net-6">.NET 6</a> <input type="checkbox">
@@ -29,8 +31,7 @@
             <summary>General Development Skills <input type="checkbox"></summary>
             <ul>
                 <li>
-                    Learn GIT, create a few repositories on GitHub, share your code with other people
-                    <input type="checkbox">
+                    Learn GIT, create a few repositories on GitHub, share your code with other people                    
                 </li>
                 <li>Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS) <input
                         type="checkbox"></li>
